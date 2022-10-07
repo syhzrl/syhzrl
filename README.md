@@ -12,7 +12,9 @@ Techs I Enjoy:
 - SASS
 
 Favorite Git Client: Fork
+
 Favorite API Docs: Postman
+
 Favorite IDE: VSCode
 
 <!---

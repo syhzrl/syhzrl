@@ -1,6 +1,6 @@
 # Hello, I'm Aril 👋
 
-🚀 Frontend Developer | UI/UX Enthusiast | Lifelong Learner
+💻 Frontend Developer | UI/UX Enthusiast | Lifelong Learner
 
 📫 How to reach me: syhzrl@gmail.com 
 
